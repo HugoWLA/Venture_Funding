@@ -26,7 +26,7 @@ python -c "import tensorflow as tf;print(tf.keras.__version__)"
 ### Notes
 Apple M1 Chip Users
 The Apple M1 Chip is not currently compatible with a typical Tensorflow installation, but that's ok! You can easily run this program
-using Google Colab. 
+using [Google Colab](https://colab.research.google.com/?utm_source=scs-index)
 
 
 # License
